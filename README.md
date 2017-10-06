@@ -7,11 +7,11 @@ Overview
 
 [This](https://github.com/udacity/CarND-Vehicle-Detection) Udacity's repository contains starting files for the Project.
 
-My detailed solution **[writeup](https://github.com/feklistoff/udacity-carnd-project4/blob/master/Writeup_Project_5.md)**.
+My detailed solution **[writeup](https://github.com/feklistoff/udacity-carnd-project5/blob/master/Writeup_Project_5.md)**.
 
 ### The Project
 ---
-The goals/steps of this project are the following:
+The steps of this project are the following:
 
 * Perform a Histogram of Oriented Gradients (HOG) feature extraction on a labeled training set of images 
 * Train a Linear SVM classifier
