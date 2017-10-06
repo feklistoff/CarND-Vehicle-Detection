@@ -30,7 +30,7 @@ one channel to perform HOG and throw away the part with additional color and sha
 
 When we apply HOG to an image we get something like this:
 
-<img src="writeup_images/hog_img.png" width="650px">
+<img src="writeup_images/test_hog_img.png" width="1300px">
 
 And training image:
 
