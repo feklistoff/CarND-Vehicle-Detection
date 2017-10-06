@@ -3,7 +3,7 @@
 
 Overview
 ---
-<img src="writeup_images/overview.jpg" width="500px">
+<img src="writeup_images/overview.png" width="600px">
 
 [This](https://github.com/udacity/CarND-Vehicle-Detection) Udacity's repository contains starting files for the Project.
 
